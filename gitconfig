@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = victor.duverne@gmail.com
+	name = Victor Duverne
